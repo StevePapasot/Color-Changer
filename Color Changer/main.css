@@ -1,0 +1,438 @@
+body{
+    background-color:rgba(0, 0, 0, 0.37);
+    background-size: cover;
+}
+
+/*=============================== Main head =================================*/
+.title{
+    display: flex;
+    margin: 1.5% 30% 5% 37%;
+}
+.logo{
+    width:80px;
+    padding: 0% 3% 0% 0%;
+}
+#mainhead{
+    font-family: 'Pacifico', cursive;
+}
+/*============================== Primary Colors =======================================*/
+h2{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+}
+h4{
+    font-family:'Permanent Marker', cursive;
+    padding: 0% 30% 1% 28%;
+}
+/*=========================== Blue ==========================*/
+.blue1{
+    height:40px;
+    width:300px;
+    background-color:#0000ff10;
+}
+.blue2{
+    height:40px;
+    width:300px;
+    background-color:#0000ff20;
+}
+.blue3{
+    height:40px;
+    width:300px;
+    background-color:#0000ff30;
+}
+.blue4{
+    height:40px;
+    width:300px;
+    background-color:#0000ff40;
+}
+.blue5{
+    height:40px;
+    width:300px;
+    background-color:#0000ff50;
+}
+.blue6{
+    height:40px;
+    width:300px;
+    background-color:#0000ff60;
+}
+.blue7{
+    height:40px;
+    width:300px;
+    background-color:#0000ff70;
+}
+.blue8{
+    height:40px;
+    width:300px;
+    background-color:#0000ff80;
+}
+.blue9{
+    height:40px;
+    width:300px;
+    background-color:#0000ff90;
+}
+.blue10{
+    height:40px;
+    width:300px;
+    background-color:#0000ff;
+}
+
+/*=========================== Yellow ========================*/
+.yellow1{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0010;
+}
+.yellow2{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0020;
+}
+.yellow3{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0030;
+}
+.yellow4{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0040;
+}
+.yellow5{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0050;
+}
+.yellow6{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0060;
+}
+.yellow7{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0070;
+}
+.yellow8{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0080;
+}
+.yellow9{
+    height:40px;
+    width:300px;
+    background-color:#FFFF0090;
+}
+.yellow10{
+    height:40px;
+    width:300px;
+    background-color:#FFFF00;
+}
+
+
+/*================================ Red =================================*/
+.r1{
+    height:40px;
+    width:300px;
+    background-color:#FF000010;
+}
+.r2{
+    height:40px;
+    width:300px;
+    background-color:#FF000020;
+}
+.r3{
+    height:40px;
+    width:300px;
+    background-color:#FF000030;
+}
+.r4{
+    height:40px;
+    width:300px;
+    background-color:#FF000040;
+}
+.r5{
+    height:40px;
+    width:300px;
+    background-color:#FF000050;
+}
+.r6{
+    height:40px;
+    width:300px;
+    background-color:#FF000060;
+}
+.r7{
+    height:40px;
+    width:300px;
+    background-color:#FF000070;
+}
+.r8{
+    height:40px;
+    width:300px;
+    background-color:#FF000080;
+}
+.r9{
+    height:40px;
+    width:300px;
+    background-color:#FF000090;
+}
+.r10{
+    height:40px;
+    width:300px;
+    background-color:#FF0000;
+}
+
+/*================================== Secondary Colors =======================================*/
+
+/*=========================== Blue ==========================*/
+.o1{
+    height:40px;
+    width:300px;
+    background-color:#FFA50010;
+}
+.o2{
+    height:40px;
+    width:300px;
+    background-color:#FFA50020;
+}
+.o3{
+    height:40px;
+    width:300px;
+    background-color:#FFA50030;
+}
+.o4{
+    height:40px;
+    width:300px;
+    background-color:#FFA50040;
+}
+.o5{
+    height:40px;
+    width:300px;
+    background-color:#FFA50050;
+}
+.o6{
+    height:40px;
+    width:300px;
+    background-color:#FFA50060;
+}
+.o7{
+    height:40px;
+    width:300px;
+    background-color:#FFA50070;
+}
+.o8{
+    height:40px;
+    width:300px;
+    background-color:#FFA50080;
+}
+.o9{
+    height:40px;
+    width:300px;
+    background-color:#FFA50090;
+}
+.o10{
+    height:40px;
+    width:300px;
+    background-color:#FFA500;
+}
+
+/*=========================== Yellow ========================*/
+.g1{
+    height:40px;
+    width:300px;
+    background-color:#00800010;
+}
+.g2{
+    height:40px;
+    width:300px;
+    background-color:#00800020;
+}
+.g3{
+    height:40px;
+    width:300px;
+    background-color:#00800030;
+}
+.g4{
+    height:40px;
+    width:300px;
+    background-color:#00800040;
+}
+.g5{
+    height:40px;
+    width:300px;
+    background-color:#00800050;
+}
+.g6{
+    height:40px;
+    width:300px;
+    background-color:#00800060;
+}
+.g7{
+    height:40px;
+    width:300px;
+    background-color:#00800070;
+}
+.g8{
+    height:40px;
+    width:300px;
+    background-color:#00800080;
+}
+.g9{
+    height:40px;
+    width:300px;
+    background-color:#00800090;
+}
+.g10{
+    height:40px;
+    width:300px;
+    background-color:#008000;
+}
+
+
+/*================================ Red =================================*/
+.v1{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE10;
+}
+.v2{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE20;
+}
+.v3{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE30;
+}
+.v4{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE40;
+}
+.v5{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE50;
+}
+.v6{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE60;
+}
+.v7{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE70;
+}
+.v8{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE80;
+}
+.v9{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE90;
+}
+.v10{
+    height:40px;
+    width:300px;
+    background-color:#EE82EE;
+}
+
+
+.pick{
+    display:flex;
+}
+.pickimg{
+    height: 25px;
+}
+.pick p{
+    font-family: 'Permanent Marker', cursive;
+}
+#picked{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#picked p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+#pickedy{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#pickedy p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+
+#pickedr{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#pickedr p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+
+#pickedo{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#pickedo p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+#pickedg{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#pickedg p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+#pickedv{
+    height:60px;
+    width:300px;
+    border: 1px solid #000;
+}
+#pickedv p{
+    font-size:20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+#button{
+    margin: 5% 40%;
+}
+
+
+
+
+
+
+
+
+
